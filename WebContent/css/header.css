@@ -1,0 +1,12 @@
+.header1{
+	margin-bottom:3px;
+	text-align:center;
+	font-size:24px;
+	line-height:50px;
+	background:red;
+}
+.header2{
+	margin-bottom:3px;
+	height:50px;
+	background:blue;
+}
